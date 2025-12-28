@@ -53,16 +53,16 @@ task-manager-api/
 │── README.md
 
 ```
-````
+
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Install dependencies
-```bash
+```md
 npm install
-````
+```
 
 ### 2️⃣ Create `.env` file in root directory
 
