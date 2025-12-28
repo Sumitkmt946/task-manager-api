@@ -184,17 +184,3 @@ Backend Developer Intern Applicant
 
 ```
 
----
-
-### ✅ Ab bas itna karo
-1️⃣ VS Code → `README.md` open karo  
-2️⃣ Upar ka **poora content paste** karo  
-3️⃣ `Ctrl + S`  
-
-Agar chaho to next:
-- **GitHub push commands**
-- **Final submission checklist**
-- **Interview me project explain ka short answer**
-
-Bas bolo 👍
-```
