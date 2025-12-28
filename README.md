@@ -1,5 +1,5 @@
 
-```md
+
 # Task Management Backend API
 
 This project is a **Task Management REST API** built as part of the **ProU Internship – Backend Developer Assignment**.  
@@ -31,8 +31,8 @@ It allows managing employees and tasks, assigning tasks to employees, and filter
 
 ## 📁 Project Structure
 
-```
 
+```md
 task-manager-api/
 │── src/
 │   ├── config/
@@ -52,6 +52,7 @@ task-manager-api/
 │── package.json
 │── README.md
 
+```
 ````
 
 ---
