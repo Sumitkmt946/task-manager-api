@@ -2,7 +2,7 @@
 
 # Task Management Backend API
 
-This project is a **Task Management REST API** built as part of the **ProU Internship – Backend Developer Assignment**.  
+This project is a **Task Management REST API** built as part of the ** Backend Developer Assignment**.  
 It allows managing employees and tasks, assigning tasks to employees, and filtering tasks based on status or employee.
 
 ---
